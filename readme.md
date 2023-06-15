@@ -32,6 +32,9 @@ You will get url copy it and paste in browser.
 
  7. You have sample_data folder where you can get images to test.
 
+### Dashboard
+![Dashboard]()
+
 ### Scope
 #### This project can be used in different organizations where customers or users need to provide any kind of id in order to get themselves verified. The organization can use this project to find out whether the ID is original or fake. Similarly this can be used for any type of ID like adhar, voter id, etc.
 
