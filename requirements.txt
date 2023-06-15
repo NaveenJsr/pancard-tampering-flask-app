@@ -1,0 +1,7 @@
+flask
+imutils
+keras
+opencv-python
+Pillow
+tensorflow
+scikit-image
